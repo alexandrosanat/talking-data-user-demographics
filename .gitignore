@@ -1,3 +1,7 @@
+# Ignore csv too large for git
+data/app_events.csv
+data/events.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
